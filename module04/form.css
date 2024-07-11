@@ -1,0 +1,14 @@
+h2,h4{
+    text-align: center;
+    color: gray;
+}
+
+label{
+    display: block;
+    padding: 5px;
+}
+img{
+    display:flex;
+    padding: 20px;
+}
+
